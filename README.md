@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# 커뮤니티 피드백 기반 헬스 웹 PT 서비스
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## 선정 이유
 
-In the project directory, you can run:
+- 최근 건강 관리에 대한 관심이 높아지면서 헬스장을 찾는 사람들이 많아졌습니다. 하지만 비용이 부담스럽고, 혼자 운동하는 경우 잘못된 자세로 인해 운동 효과가 떨어지거나 부상을 당할 위험이 있습니다.
+- 이러한 문제점을 해결하고자, 사용자들이 자신의 운동 영상을 공유하고 커뮤니티의 다른 사용자들로부터 피드백을 받을 수 있는 '웹 PT 서비스'를 기획하게 되었습니다.
 
-### `npm start`
+  ---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ## 개발 목표
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  - 고가의 PT 대신 집단 지성을 활용하여 무료로 자세 교정을 받고, 식단 관리, 운동 알람, 운동 방법 가이드 등 종합적인 건강 관리 기능을 하나의 웹 서비스에서 제공함으로써 사용자의 운동 동기를 부여하고 건강한 습관을 형성하는 데 도움을 주는 것을 목표로 합니다.
+    
+  -  Amazon Cognito, S3, Lambda 등 현대적인 클라우드 서비스를 활용하여 확장 가능하고 안정적인 서비스를 구축하는 실무 경험을 쌓고자 합니다.
+ 
+---
 
-### `npm test`
+## 개발
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 프론트 
 
-### `npm run build`
+> 시작 페이지
+  
+<img width="1489" height="911" alt="image" src="https://github.com/user-attachments/assets/a1022bb7-eb04-429a-ac6d-1fe58cd2d72d" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> 메인페이지 겸 커뮤니티 페이지
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="1536" height="936" alt="image" src="https://github.com/user-attachments/assets/07211c29-4239-4aaa-a1af-4870fa62e691" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> 식단 추천 페이지
 
-### `npm run eject`
+<img width="1559" height="931" alt="image" src="https://github.com/user-attachments/assets/833c5e63-7533-4c73-a9ff-2bd53df901cc" />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+> 운동 라이브러리 페이지
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="1507" height="928" alt="image" src="https://github.com/user-attachments/assets/976e5df1-a932-492a-85fd-39a5ea8a84db" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+> 마이 페이지
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1566" height="891" alt="image" src="https://github.com/user-attachments/assets/67d0b1e4-d5db-47da-8ba5-14262539c50a" />
