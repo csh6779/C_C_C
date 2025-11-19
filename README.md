@@ -41,9 +41,10 @@
 
 <img width="1566" height="891" alt="image" src="https://github.com/user-attachments/assets/67d0b1e4-d5db-47da-8ba5-14262539c50a" />
 
-### 백엔드
+### 기능명세서
 
-기제바람
+<img width="987" height="577" alt="image" src="https://github.com/user-attachments/assets/28a97889-e103-4ac3-950f-7b6a700aae50" />
+
 
 ### DB (ERD)
 
