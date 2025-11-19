@@ -40,3 +40,11 @@
 > 마이 페이지
 
 <img width="1566" height="891" alt="image" src="https://github.com/user-attachments/assets/67d0b1e4-d5db-47da-8ba5-14262539c50a" />
+
+### 백엔드
+
+
+
+### DB (ERD)
+
+<img width="630" height="1028" alt="image" src="https://github.com/user-attachments/assets/10f137ac-9151-4ed0-9f11-fe4594cb921a" />
